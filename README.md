@@ -1,2 +1,2 @@
 # background_change
-just another simplefront-end exercise
+just another simple front-end exercise
